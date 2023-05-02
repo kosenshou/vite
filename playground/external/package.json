@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "slash3": "npm:slash@^3.0.0",
-    "slash5": "npm:slash@^5.0.0",
+    "slash5": "npm:slash@^5.0.1",
     "vite": "workspace:*",
     "vue": "^3.2.47"
   }
